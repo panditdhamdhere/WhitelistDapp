@@ -36,8 +36,12 @@ contract Whitelist {
         numAddressesWhitelisted += 1;
     }
 
-function removeAddress(address _newAddr) returns(address) {
+function removeAddress(address _newAddr) public returns(address) {
 returns _newAddr;
+}
+
+function Add(uint8 y, uint8 z) public pure returns(uint256) {
+returns y + z;
 }
 
 }
