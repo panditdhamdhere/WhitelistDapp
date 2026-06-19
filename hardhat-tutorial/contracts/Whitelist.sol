@@ -36,4 +36,8 @@ contract Whitelist {
         numAddressesWhitelisted += 1;
     }
 
+function removeAddress(address _newAddr) returns(address) {
+returns _newAddr;
+}
+
 }
