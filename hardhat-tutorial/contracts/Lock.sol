@@ -31,4 +31,8 @@ contract Lock {
 
         owner.transfer(address(this).balance);
     }
+
+function changeLock(bool yes) public {
+yes = false;
+}
 }
