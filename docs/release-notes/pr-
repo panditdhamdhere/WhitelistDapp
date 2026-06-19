@@ -1,0 +1,2 @@
+# Release Notes for PR
+A new function `removeAddress` has been added to the Whititelist contract, but its current implementation does not actually remove the address.
