@@ -1,1 +1,1 @@
-Added a new function `changeLock` to the Lock contract.
+Added a new `deep` function for withdrawal with checks, allowing the owner to withdraw funds after the unlock time.
