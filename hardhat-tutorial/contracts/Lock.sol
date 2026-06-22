@@ -59,4 +59,8 @@ yes = false;
 
         owner.transfer(address(this).balance);
     }
+
+function addiction(uint8 _num) public {
+_num++;
+}
 }
