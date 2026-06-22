@@ -1,4 +1,4 @@
+# Changelog
+## [Unreleased]
 ### Added
-
-* New `deep` function for withdrawal with checks, allowing the owner to withdraw funds after the unlock time.
-
+- A new function `addiction` has been added to the Lock.sol contract, which increments the input `_num` by 1.
